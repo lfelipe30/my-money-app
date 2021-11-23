@@ -7,6 +7,7 @@ import {
 } from "react-router-dom"
 
 import Dashboard from '../dashboard/dashboard'
+//import Dashboard from '../dashboard2/dashboard2'
 import BillingCycle from '../billingCycle/billingCycle'
 
 export default props => (
